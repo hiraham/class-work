@@ -8,6 +8,7 @@ const page = () => {
       
      <h1 className='py-3 font-semibold text-center text-4xl'>hello world</h1>
      <Hero/>
+     <h3>hero</h3>
     </div>
     
   );
